@@ -17,3 +17,10 @@ According to the recommendations from
 3. Don't forget to add the environment variables `DATABASE_URL` and `STRIPE_SECRET_KEY` to Vercel
    
 After making these changes, you can proceed to deploy to Vercel.
+
+
+Here are some example APIs you can try to access:
+
+- [https://expo-web-api-uber.vercel.app/(api)/driver](https://expo-web-api-uber.vercel.app/(api)/driver)
+- [https://expo-web-api-uber.vercel.app/driver](https://expo-web-api-uber.vercel.app/driver)
+- [https://expo-web-api-uber.vercel.app/hello](https://expo-web-api-uber.vercel.app/hello)
