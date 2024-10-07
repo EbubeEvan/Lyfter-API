@@ -7,8 +7,8 @@ const express = require('express');
 const compression = require('compression');
 const morgan = require('morgan');
 
-const CLIENT_BUILD_DIR = path.join(process.cwd(), 'dist/client');
-const SERVER_BUILD_DIR = path.join(process.cwd(), 'dist/server');
+const CLIENT_BUILD_DIR = path.join(process.cwd(), '../dist/client');
+const SERVER_BUILD_DIR = path.join(process.cwd(), '../dist/server');
 
 const app = express();
 
