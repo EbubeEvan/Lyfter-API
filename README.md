@@ -14,5 +14,6 @@ According to the recommendations from
    ```
 
 2. Create a file named `api/index.ts`.
-
+3. Don't forget to add the environment variables `DATABASE_URL` and `STRIPE_SECRET_KEY` to Vercel
+   
 After making these changes, you can proceed to deploy to Vercel.
